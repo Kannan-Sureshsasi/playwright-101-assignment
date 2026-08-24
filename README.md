@@ -118,6 +118,7 @@ The Playwright project is configured to support browser-based execution.
 
 * Chromium
 * Desktop Chrome configuration
+* Edge
 
 ### Cloud Execution
 
